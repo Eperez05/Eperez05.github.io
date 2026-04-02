@@ -83,20 +83,15 @@ const CONFIG = {
       'https://github.com/tvanlaar/gitprofile/raw/main/VanLaarCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
-    'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    'Excel',
+    'Microscopy',
+    'BLAST',
+    'Lab Safety',
+    'Pipetting',
+    'TLC',
+    'Melting Point Analysis',
+    'Distillation',
+   
   ],
   experiences: [
     {
