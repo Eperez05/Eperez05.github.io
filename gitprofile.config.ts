@@ -124,17 +124,12 @@ const CONFIG = {
   ],
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'California State University Stanislaus',
+      degree: 'BA Biological Sciences',
+      from: '2023',
+      to: 'Present',
     },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
-    },
+
   ],
   publications: [
     {
