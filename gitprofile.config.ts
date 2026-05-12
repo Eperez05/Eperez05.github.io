@@ -45,7 +45,7 @@ const CONFIG = {
           description:
             'Section Report on a WGS workflow.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://github.com/Eperez05/Eperez05.github.io/raw/main/SR2Screenshot.png',
           link: 'https://example.com',
         },
       ],
