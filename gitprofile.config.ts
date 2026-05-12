@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             'This is an ecology presentation on Kights Ferry that talks about ecological concepts.',
           imageUrl:
-            'https://github.com/Eperez05/Eperez05.github.io/blob/main/EcologyPresentation.pdf',
+            'https://github.com/Eperez05/Eperez05.github.io/raw/main/EcologyPresentationScreenshot.png',
           link: 'https://github.com/Eperez05/Eperez05.github.io/raw/main/EcologyPresentation.pdf',
         },
         {
