@@ -46,7 +46,7 @@ const CONFIG = {
             'Section Report on a WGS workflow.',
           imageUrl:
             'https://github.com/Eperez05/Eperez05.github.io/raw/main/SR2Screenshot.png',
-          link: 'https://example.com',
+          link: 'https://github.com/Eperez05/Eperez05.github.io/raw/main/SectionReport2.pdf',
         },
       ],
     },
