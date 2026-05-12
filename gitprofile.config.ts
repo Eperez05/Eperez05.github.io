@@ -38,7 +38,7 @@ const CONFIG = {
             'This is an ecology presentation on Kights Ferry that talks about ecological concepts.',
           imageUrl:
             'https://github.com/Eperez05/Eperez05.github.io/blob/main/EcologyPresentation.pdf',
-          link: 'https://docs.google.com/presentation/d/1MrxsHZdjioU75J_z_0iVjXIYh_xNUnXEP_-jTDw7TxM/edit?usp=sharing',
+          link: 'https://github.com/Eperez05/Eperez05.github.io/raw/main/EcologyPresentation.pdf',
         },
         {
           title: 'WGS workflow',
