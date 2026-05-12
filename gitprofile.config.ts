@@ -41,9 +41,9 @@ const CONFIG = {
           link: 'https://docs.google.com/presentation/d/1MrxsHZdjioU75J_z_0iVjXIYh_xNUnXEP_-jTDw7TxM/edit?usp=sharing',
         },
         {
-          title: 'Project Name',
+          title: 'WGS workflow',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Section Report on a WGS workflow.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
